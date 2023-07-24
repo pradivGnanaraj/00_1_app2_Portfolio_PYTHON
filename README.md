@@ -20,6 +20,8 @@ variable.
 
 home.py : This page contains the main content of the website. 
 
-Contact_Us.py : This page contains the contact Form. 
+Contact_Us.py : This page contains the contact Form. The password field in 
+the file is protected by using environment variables. 
 
-## NOTE : This project is currently not deployed
+#### NOTE : This project is serving as a temporary portfolio https://www.pradivgnanaraj.com
+#### A redirection is set to the application temporarily.
