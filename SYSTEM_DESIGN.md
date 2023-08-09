@@ -60,5 +60,3 @@ The architecture of the Portfolio Web Application comprises several components t
 The Portfolio Web Application demonstrates the integration of various components to create an interactive platform for users to learn about Pradiv Gnanaraj's profile and engage through a contact form. The architecture provides a solid foundation for future enhancements and improvements.
 
 ---
-
-**Note:** This document provides a high-level overview of the Portfolio Web Application's system design. Customize the content based on your project's specifics.

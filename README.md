@@ -55,5 +55,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The Python community for continuous support and contributions.
 
 ---
-
-**Note:** This `README.md` file provides an overview of the Portfolio Web Application project. Customize the content to match your project's specifics and provide clear instructions for users.
